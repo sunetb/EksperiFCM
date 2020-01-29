@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581070612558",
+    "firebase_url": "https://eksperifcm.firebaseio.com",
+    "project_id": "eksperifcm",
+    "storage_bucket": "eksperifcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581070612558:android:e9ef8e3e7143661469bb1f",
+        "android_client_info": {
+          "package_name": "dk.stbn.eksperifcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581070612558-fn9bgjht0eb2pm53tdcbk1tr0dhutalg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.stbn.eksperifcm",
+            "certificate_hash": "c78d44c857ca843434f153338c0c67b6a8012268"
+          }
+        },
+        {
+          "client_id": "581070612558-d2qtllsr7p8fae8lpuunt7bghobk5tuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA42eLqUxQPYEfPCJDkqg_H71GWoZ7N8u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581070612558-d2qtllsr7p8fae8lpuunt7bghobk5tuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
