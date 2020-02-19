@@ -17,6 +17,17 @@ import com.google.firebase.iid.InstanceIdResult;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    /***Noter
+     * https://aaronczichon.de/2017/03/13/firebase-cloud-functions/
+     */
+
+
+
+
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
