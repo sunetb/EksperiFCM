@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EksperiFCM</string>
+    <string name="default_notification_channel_id">MinNotifikationskanal</string>
+    <string name="default_notification_channel_name">MinNotifikationskanalsNavn</string>
 </resources>
